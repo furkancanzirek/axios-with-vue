@@ -1,6 +1,6 @@
 # axios-test
 
-![picture](https://github.com/furkancanzirek/axios-with-vue/axiosVue.png)
+![picture](https://github.com/furkancanzirek/axios-with-vue/blob/main/axiosVue.png)
 ## Project setup
 ```
 npm install
